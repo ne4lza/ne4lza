@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">I am Backend Web Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475ypa6upryr1gs3y7wdtdyf004at6dcp95rlwgs2v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ne4lza&label=Profile%20views&color=0e75b6&style=flat" alt="ne4lza" /> </p>
 - 🌱 I’m currently learning **ASP.NET CORE**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/enes-kili%C3%A7-524382275/](https://www.linkedin.com/in/enes-kili%C3%A7-524382275/)
