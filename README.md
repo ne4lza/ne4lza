@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/enes-kili%C3%A7-524382275/](https://www.linkedin.com/in/enes-kili%C3%A7-524382275/)
 
-- 💬 Ask me about **C#,ASP.NET CORE,MSSQL,HTML5,CSS3,JAVASCRIPT,N TIER ARCHITECTUREe**
+- 💬 Ask me about **C#,ASP.NET CORE,MSSQL,HTML5,CSS3,JAVASCRIPT,N TIER ARCHITECTURE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
